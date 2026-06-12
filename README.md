@@ -1,3 +1,3 @@
 # proyecto-pensamiento-computacional-s5
 
-Examen
+Examen pensamiento computacional de Fiorella Miranda, sección 5.
