@@ -24,7 +24,7 @@ Pou, Paul Salamah, 2012.
 
 ### Integrantes
 
-Fiorella Miranda Suárez [ellanyx]([https://github.com/usuarioGithub](https://github.com/ellanyx))
+Fiorella Miranda Suárez [ellanyx](https://github.com/ellanyx)
 
 ### Enlace de p5.js 
 
