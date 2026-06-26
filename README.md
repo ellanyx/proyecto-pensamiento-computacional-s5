@@ -20,7 +20,7 @@ Pou, Paul Salamah, 2012.
 
 ### Imagen de referencia de proyecto
 
-![miniatura](./imagenes/miniatura.jpg)
+![miniatura](./imagenes/miniatura.png)
 
 ### Integrantes
 
