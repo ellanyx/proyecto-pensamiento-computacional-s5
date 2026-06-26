@@ -20,7 +20,7 @@ Pou, Paul Salamah, 2012.
 
 ### Imagen de referencia de proyecto
 
-![storyboard](./img/storyboard.jpg)
+![miniatura](./imagenes/miniatura.jpg)
 
 ### Integrantes
 
@@ -36,7 +36,7 @@ Tienes una lechuza de campanario de mascota que debes cuidar. El jugador debe al
 
 ### Storyboard
 
-Imágenes del storyboard, las que deben verse acá y estar subidas en el mismo repositorio
+![storyboard](./imagenes/storyboard.jpg)
 
 ### Estados
 
