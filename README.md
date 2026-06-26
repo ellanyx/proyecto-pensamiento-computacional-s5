@@ -20,7 +20,9 @@ Pou, Paul Salamah, 2012.
 
 ### Imagen de referencia de proyecto
 
-Deja acá una imagen de la "portada" de tu proyecto. Como si fuera un afiche. Puede ser un fotograma de toda la interacción.
+![descripcion de la imagen](./direccionImagen)
+
+![storyboard](./img/storyboard.jpg)
 
 ### Integrantes
 
