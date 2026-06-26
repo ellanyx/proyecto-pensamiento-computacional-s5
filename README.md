@@ -2,6 +2,10 @@
 
 Examen pensamiento computacional de Fiorella Miranda, sección 5.
 
+## Link de web pública (github pages)
+
+<[https://link.com](https://ellanyx.github.io/proyecto-pensamiento-computacional-s5/)>
+
 ## Título del proyecto
 
 Owltimate tamagotchi
